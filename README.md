@@ -3,6 +3,9 @@
 
 ### Computer Science Undergraduate | Software Engineer Intern Aspirant
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&width=600&lines=Computer+Science+Undergraduate;Full-Stack+Developer;Backend+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
+
+
 🎓 Third-year Computer Science undergraduate at the **University of Colombo School of Computing (UCSC), Sri Lanka**.
 
 💻 Passionate about software engineering, backend development, and DevOps.
