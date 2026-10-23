@@ -89,10 +89,16 @@ A team-based industry project focused on enabling peer-to-peer energy trading th
 
 ---
 
-## 🤝 Connect With Me
+### Connect with Me
 
-- GitHub: [Sivajan-Jeyaseelan](https://github.com/Sivajan-Jeyaseelan)
-- LinkedIn: [sivajan-tech](https://www.linkedin.com/in/sivajan-tech/)
+<p align="left">
+  <a href="https://linkedin.com/in/sivajan-tech" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivajan-tech" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Sivajan-Jeyaseelan" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Sivajan-Jeyaseelan" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
