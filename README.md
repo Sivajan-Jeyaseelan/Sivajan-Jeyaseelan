@@ -15,6 +15,14 @@ I am interested in low latency architecture, distributed services and high concu
 
 ---
 
+### Languages and Tools
+
+Here are some of the languages and tools I work with:
+
+###### Languages
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
+
+
 ## 🛠️ Technical Skills
 
 **Programming Languages**
