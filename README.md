@@ -6,15 +6,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2196F3&width=600&lines=Computer+Science+Undergraduate;Full-Stack+Developer;Backend+%26+DevOps+Enthusiast)](https://git.io/typing-svg)
 
 
-🎓 Third-year Computer Science undergraduate at the **University of Colombo School of Computing (UCSC), Sri Lanka**.
+I am interested in low latency architecture, distributed services and high concurrency systems.
 
-💻 Passionate about software engineering, backend development, and DevOps.
 
-🚀 Currently contributing to **GridX**, a Peer-to-Peer Energy Trading Platform, as part of my university industry project.
-
-🌱 Currently learning **Go, Microservices, Kafka, MQTT, and Event-Driven Architecture**.
-
-🎯 Interested in **Software Engineer Intern** and **DevOps Engineer Intern** opportunities.
+- Currently focused on: Building reliable backend services and understanding **event-driven architectures, distributed messaging, and system   scalability**       
+- **Actively working on:** Developing **GridX**, a peer-to-peer energy trading platform, with a focus on IoT data ingestion, gRPC services, DEWA integration, and backend service communication
+- Background: Practical experience building full-stack web applications using **Next.js, React, TypeScript, JavaScript, and REST APIs**, with ongoing development experience in **Go, PostgreSQL, Kafka, and microservices architecture**
 
 ---
 
