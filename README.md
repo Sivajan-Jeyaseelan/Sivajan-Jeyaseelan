@@ -83,9 +83,9 @@ A team-based industry project focused on enabling peer-to-peer energy trading th
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivajan-Jeyaseelan&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sivajan-Jeyaseelan&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivajan-Jeyaseelan&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivajan-Jeyaseelan&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
