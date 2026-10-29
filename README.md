@@ -15,51 +15,51 @@ I am interested in low latency architecture, distributed services and high concu
 
 ---
 
-### Languages and Tools
-
-Here are some of the languages and tools I work with:
-
-###### Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
-
-
 ## 🛠️ Technical Skills
 
-**Programming Languages**
-- JavaScript (ES6+)
-- TypeScript
-- Java
-- Go
+### Programming Languages
 
-**Frontend Development**
-- React
-- Next.js
-- HTML5
-- CSS3
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Go](https://img.shields.io/badge/Go-000?style=flat-square&logo=go&logoColor=00ADD8)
 
-**Backend Development**
-- Node.js
-- Fastify
-- REST APIs
-- gRPC
+### Frontend Development
 
-**Databases**
-- MySQL
-- PostgreSQL
-- Redis
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=1572B6)
 
-**DevOps & Tools**
-- Git & GitHub
-- Docker
-- CI/CD Fundamentals
-- VS Code
+### Backend Development
 
-**Currently Exploring**
-- Apache Kafka
-- MQTT
-- Microservices Architecture
-- Event-Driven Systems
-- Cloud-Native Development
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Fastify](https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify&logoColor=FFFFFF)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000?style=flat-square&logo=fastapi&logoColor=009688)
+![gRPC](https://img.shields.io/badge/gRPC-000?style=flat-square&logo=google&logoColor=4285F4)
+
+### Databases & Messaging
+
+![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-000?style=flat-square&logo=redis&logoColor=FF4438)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000?style=flat-square&logo=apachekafka&logoColor=FFFFFF)
+![MQTT](https://img.shields.io/badge/MQTT-000?style=flat-square&logo=eclipsemosquitto&logoColor=FFFFFF)
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=flat-square&logo=githubactions&logoColor=2088FF)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+
+### Currently Exploring
+
+![Microservices](https://img.shields.io/badge/Microservices-000?style=flat-square&logo=buffer&logoColor=FFFFFF)
+![Event-Driven Systems](https://img.shields.io/badge/Event--Driven_Systems-000?style=flat-square&logo=apachekafka&logoColor=FFFFFF)
+![Cloud Native](https://img.shields.io/badge/Cloud--Native-000?style=flat-square&logo=icloud&logoColor=FFFFFF)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000?style=flat-square&logo=githubactions&logoColor=2088FF)
 
 ---
 
